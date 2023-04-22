@@ -68,7 +68,7 @@
     "rollup": "^2.70.2",
     "slash": "^3.0.0",
     "source-map": "^0.7.3",
-    "vue-template-babel-compiler": "^1.2.0"
+    "vue-template-babel-compiler": "^2.0.0"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.20.7",
